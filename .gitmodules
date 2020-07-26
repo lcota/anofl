@@ -1,0 +1,3 @@
+[submodule "ref/hands-on-nltk-tutorial"]
+	path = ref/hands-on-nltk-tutorial
+	url = https://github.com/hb20007/hands-on-nltk-tutorial.git
